@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jerson Gomez</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+-🚀 Desarrollo de API RESTful
+-🛠️ Gestión de bases de datos SQL
+-🔐 Implementación de medidas de seguridad, autenticación y autorización.
+-💡 Estoy abierto a colaboraciones, contribuciones y nuevos desafíos. Siempre estoy buscando aprender y crecer como profesional. ¡No dudes en contactarme si tienes un proyecto interesante o alguna pregunta relacionada con el desarrollo backend!
 - 📫 Puedes encontrarme en LinkedIn [https://www.linkedin.com/in/jerson-gomez-6a17a3284/](https://www.linkedin.com/in/jerson-gomez-6a17a3284/)
 
 <h3 align="left">Connect with me:</h3>
